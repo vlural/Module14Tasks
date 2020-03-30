@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "TodoTaskTableViewCell.deleteTask(_:):TodoTaskTableViewCell.swift">
+      </ContextState>
+      <ContextState
+         contextName = "TodoListRealmViewController.tableView(_:cellForRowAt:):TodoListRealmViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TodoListRealmViewController.viewDidLoad():TodoListRealmViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in TodoListRealmViewController.tableView(_:cellForRowAt:):TodoListRealmViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+            <PersistentString
+               value = "indexPath.item">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
